@@ -57,3 +57,19 @@ Prototype Completed ✅
 PCB Designed ✅
 
 Testing in Progress 🚧
+# Voltsense Contactless AC Voltage Detection
+
+## Schematic Diagram
+![Schematic](IMAGES/schmatic_diagram.jpeg)
+
+## PCB Render
+![PCB Render](IMAGES/PCB_render.jpeg)
+
+## Top View
+![Top View](IMAGES/Top_view.jpeg)
+
+## Bottom View
+![Bottom View](IMAGES/Bottom_view.jpeg)
+
+## 3D View
+![3D View](IMAGES/3D_view.jpeg)
