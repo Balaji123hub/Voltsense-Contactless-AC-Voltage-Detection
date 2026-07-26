@@ -21,7 +21,7 @@ Voltsense is a custom PCB designed for a contactless AC voltage detection system
 
 ## Tools Used
 
-- Autodesk Fusion 360 Electronics
+- KiCad
 - PCB Layout Editor
 - Design Rule Check (DRC)
 - Gerber File Generation
