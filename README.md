@@ -1,75 +1,115 @@
-# VoltSense – Contactless AC Voltage Detection Module
+# Voltsense – Contactless AC Voltage Detection PCB
 
 ## Overview
 
-VoltSense is a compact contactless AC voltage detection module designed using KiCad. The module detects the presence of AC voltage without direct electrical contact, improving safety while monitoring energized conductors.
+Voltsense is a custom PCB designed for a contactless AC voltage detection system. The board integrates the sensing circuit, signal conditioning, indicator LEDs, buzzer interface, and power supply into a compact and reliable design suitable for embedded and electrical applications.
 
-This PCB is being developed as a sensing module for my larger project, **VoltZafe**, an ESP32-based smart power distribution fault detection and automatic isolation system.
+---
 
 ## Features
 
 - Contactless AC voltage detection
-- Compact PCB designed in KiCad
-- Breadboard prototype verified
-- 2-layer PCB layout
-- 3D PCB model
-- Low component count
-- Easy integration with microcontrollers
+- Compact 2-layer PCB design
+- LED indication
+- Buzzer output
+- Optimized component placement
+- Clean PCB routing
+- Design Rule Check (DRC) verified
+- Manufacturing-ready Gerber generation
 
-## Applications
+---
 
-- Live wire detection
-- Distribution line monitoring
-- Electrical maintenance
-- Smart grid monitoring
-- Voltage presence sensing
-- Integration with VoltZafe
+## Tools Used
 
-## Hardware
+- Autodesk Fusion 360 Electronics
+- PCB Layout Editor
+- Design Rule Check (DRC)
+- Gerber File Generation
 
-- BC547 ×3
-- LED
-- Resistor
-- 9V Supply
+---
 
-## Design Workflow
+## Design Specifications
 
-1. Circuit prototyping
-2. Breadboard testing
-3. Schematic design in KiCad
-4. ERC verification
-5. PCB layout
-6. 3D verification
-7. Gerber generation
+| Parameter | Value |
+|-----------|-------|
+| Board Type | 2-Layer PCB |
+| Application | Contactless AC Voltage Detection |
+| Design Software | Autodesk Fusion 360 |
+| Status | Completed |
 
-## Future Work
+---
 
-- Integrate with ESP32
-- Add digital output
-- Improve sensitivity
-- Power optimization
-- Integrate into VoltZafe for real-time power line monitoring and fault detection
-
-## Project Status
-
-Prototype Completed ✅
-
-PCB Designed ✅
-
-Testing in Progress 🚧
-# Voltsense Contactless AC Voltage Detection
+# Project Images
 
 ## Schematic Diagram
+
 ![Schematic](IMAGES/schmatic_diagram.jpeg)
 
+---
+
 ## PCB Render
+
 ![PCB Render](IMAGES/PCB_render.jpeg)
 
+---
+
 ## Top View
+
 ![Top View](IMAGES/Top_view.jpeg)
 
+---
+
 ## Bottom View
+
 ![Bottom View](IMAGES/Bottom_view.jpeg)
 
+---
+
 ## 3D View
+
 ![3D View](IMAGES/3D_view.jpeg)
+
+---
+
+## Design Process
+
+- Circuit schematic design
+- Component selection
+- PCB footprint assignment
+- Component placement
+- PCB routing
+- Design Rule Check (DRC)
+- 3D verification
+- Gerber file generation
+
+---
+
+## Skills Demonstrated
+
+- PCB Design
+- Schematic Capture
+- PCB Routing
+- Electronic Hardware Design
+- DRC Verification
+- Gerber Generation
+- Embedded Hardware Development
+
+---
+
+## Future Improvements
+
+- EMI/EMC optimization
+- PCB miniaturization
+- Reverse polarity protection
+- Over-voltage protection
+- Hardware testing and validation
+
+---
+
+## Author
+
+**Balaji M**
+
+Electrical and Electronics Engineering
+
+Interested in Embedded Systems, PCB Design, IoT, Smart Grid, and Hardware Product Development.
